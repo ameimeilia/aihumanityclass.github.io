@@ -35,7 +35,6 @@ We discussed further the ethical implications of advertising in AI platforms. A 
 # Main Topic: AI Interpretability
 [Slides from Team 10](https://docs.google.com/presentation/d/1yQeRo0TUDMedH1S8M8NrI9meELuVGQR0g4lKDGUGM7w/edit?slide=id.p#slide=id.p) (Hannah Cohen, Hemanth Saravanan, Nurdin Hossain, Pranav Goteti, Ruizhang Chen)
 
-## Discussion
 Class 8’s main discussion centered around the paper “[Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead](https://aihumanityclass.github.io/docs/rudin2019.pdf)” by Cynthia Rudin, published in Nature Machine Intelligence in 2019. Cynthia Rudin is a Computer Science professor at Duke University whose research focus is on interpretable ML and the application of models to high-stakes decision-making. She received the 2022 Association for the Advancement of Artificial Intelligence (AAAI) Squirrel AI Award, an award for promoting positive uses of AI.
 
 To begin a discussion on AI interpretability, a consensus must be reached on the definition of interpretability. Rudin makes a distinction between interpretability and explainability:
